@@ -1,0 +1,14 @@
+{
+  "name": "@holocraft/typescript-config",
+  "version": "0.0.1",
+  "private": true,
+  "license": "UNLICENSED",
+  "exports": {
+    "./base": "./base.json",
+    "./nextjs": "./nextjs.json",
+    "./react-library": "./react-library.json"
+  },
+  "publishConfig": {
+    "access": "restricted"
+  }
+}

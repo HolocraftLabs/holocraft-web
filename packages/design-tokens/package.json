@@ -1,0 +1,11 @@
+{
+  "name": "@holocraft/design-tokens",
+  "version": "0.0.1",
+  "private": true,
+  "license": "UNLICENSED",
+  "exports": {
+    ".": "./src/index.ts",
+    "./css": "./src/tokens.css"
+  },
+  "files": ["src", "dist"]
+}

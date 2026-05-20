@@ -1,0 +1,14 @@
+{
+  "name": "@holocraft/eslint-config",
+  "version": "0.0.1",
+  "private": true,
+  "license": "UNLICENSED",
+  "exports": {
+    ".": "./index.mjs",
+    "./next": "./next.mjs",
+    "./react-library": "./react-library.mjs"
+  },
+  "peerDependencies": {
+    "eslint": "^9.0.0"
+  }
+}

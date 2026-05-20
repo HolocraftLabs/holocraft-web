@@ -1,0 +1,12 @@
+{
+  "name": "@holocraft/config",
+  "version": "0.0.1",
+  "private": true,
+  "license": "UNLICENSED",
+  "exports": {
+    "./postcss": "./postcss.mjs"
+  },
+  "peerDependencies": {
+    "@tailwindcss/postcss": "^4.0.0"
+  }
+}
